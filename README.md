@@ -41,7 +41,7 @@ Tasks are saved in a JSON file so you will never lose your list after closing th
 
 ## 📂 Project Structure
 ```
-todo_cli/
+todo-cli/
     ├── models.py      # Task class
     ├── storage.py     # Save/load tasks from JSON
     ├── tasks.py       # Task manager
