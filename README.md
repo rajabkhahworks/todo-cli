@@ -36,20 +36,8 @@ Tasks are saved in a JSON file so you will never lose your list after closing th
     ```bash
     python3 main.py
     ```
-
----
-
-## 📂 Project Structure
-```
-todo-cli/
-    ├── models.py      # Task class
-    ├── storage.py     # Save/load tasks from JSON
-    ├── tasks.py       # Task manager
-    ├── menu.py        # CLI menu
-    ├── main.py        # Entry point
-    └── __init__.py
-```
----
+    
+----
 
 ## 🖥️ Example CLI Output
 
